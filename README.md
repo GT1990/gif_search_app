@@ -4,7 +4,6 @@ Gif search application using React.
 
 ## Example
 
-![Example](src/img/ss1.png)
 ![Example](src/img/ss2.png)
 
 ## Components
